@@ -1,4 +1,4 @@
-# Inventory Management and Sales Tracking System
+# Inventory Management App with Real-Time Reporting
 
 A robust Inventory Management and Sales Tracking System built with AppSheet and integrated with Looker Studio. This project is designed to streamline the entire workflow from purchasing and allocation to sales, payment tracking, inventory management, and real-time reporting.
 
