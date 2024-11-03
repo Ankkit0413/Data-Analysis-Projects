@@ -127,5 +127,4 @@ Imagine a cold drink supplier managing a variety of beverages distributed to ret
 
 ---
 
-## 🔍 Keywords
-Inventory Management, Sales Tracking, AppSheet App Development, Google Looker Studio, Real-Time Reporting, Purchase Order Management, Payment Tracking
+
