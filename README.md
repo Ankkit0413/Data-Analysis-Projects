@@ -6,6 +6,8 @@ A robust Inventory Management and Sales Tracking System built with AppSheet and 
 
 - **App Link**: [Inventory Management App](https://www.appsheet.com/start/f3c86a4a-12ef-465b-925b-5f0d43aac116)
 - **Live Dashboard**: [Looker Studio Dashboard](https://lookerstudio.google.com/s/irlW9vYwtG4)
+- For a demonstration, use credentials—Admin (Pass: 98765) & Salesperson ( Rajesh, Pass: 1234).
+
 
 ---
 
@@ -107,7 +109,6 @@ Imagine a cold drink supplier managing a variety of beverages distributed to ret
 
 - **Real-Time Dashboard**: A Looker Studio dashboard tracks key metrics like sales volume, revenue, stock levels, and client payments, providing data for informed decision-making.
 
-This Example illustrates how an effective inventory management system can streamline operations for a cold drink supplier. By managing purchasing, allocation, sales, and payments in one system, the supplier can ensure timely product availability, optimize cash flow, and maintain strong relationships with retail clients.
 ---
 
 ## 📝 Installation and Setup
