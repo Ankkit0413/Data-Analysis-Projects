@@ -9,8 +9,6 @@ A robust Inventory Management and Sales Tracking System built with AppSheet and 
 - **App Link**: [Inventory Management App](https://www.appsheet.com/start/f3c86a4a-12ef-465b-925b-5f0d43aac116)
 - **Live Dashboard**: [Looker Studio Dashboard](https://lookerstudio.google.com/s/irlW9vYwtG4)
 - For a demonstration, use credentials— **Admin (Pass: 98765)** & Salesperson **( Rajesh, Pass: 1234)**.
-
-
 ---
 
 ## 📋 Project Overview
