@@ -82,6 +82,8 @@ The Looker Studio dashboard offers an at-a-glance view of:
 - **Inventory Overview**: Real-time stock levels and reorder alerts.
 - **Filter Options**: Filter reports by date range, product type, or client.
 
+[View PDF](https://github.com/Ankkit0413/Inventory-Management-App-with-Real-Time-Reporting/blob/main/INVENTORY_MANAGEMENT_2.0.pdf)
+
 ---
 
 ## 🧩 How It Works
