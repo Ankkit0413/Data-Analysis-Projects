@@ -83,7 +83,21 @@ The Looker Studio dashboard offers an at-a-glance view of:
 - **Filter Options**: Filter reports by date range, product type, or client.
 
 ---
+![Slide 1](https://github.com/Ankkit0413/Inventory-Management-App-with-Real-Time-Reporting/blob/main/INVENTORY%20MANAGEMENT-1.jpg)
 
+![Slide 2](https://github.com/Ankkit0413/Inventory-Management-App-with-Real-Time-Reporting/blob/main/INVENTORY%20MANAGEMENT-2.jpg)
+
+![Slide 3](https://github.com/Ankkit0413/Inventory-Management-App-with-Real-Time-Reporting/blob/main/INVENTORY%20MANAGEMENT-3.jpg)
+
+![Slide 3](https://github.com/Ankkit0413/Inventory-Management-App-with-Real-Time-Reporting/blob/main/INVENTORY%20MANAGEMENT-4.jpg)
+
+![Slide 3](https://github.com/Ankkit0413/Inventory-Management-App-with-Real-Time-Reporting/blob/main/INVENTORY%20MANAGEMENT-5.jpg)
+
+![Slide 3](https://github.com/Ankkit0413/Inventory-Management-App-with-Real-Time-Reporting/blob/main/INVENTORY%20MANAGEMENT-6.jpg)
+
+![Slide 3](https://github.com/Ankkit0413/Inventory-Management-App-with-Real-Time-Reporting/blob/main/INVENTORY%20MANAGEMENT-7.jpg)
+
+---
 ## 🧩 How It Works
 
 1. **Initiate Purchase Orders**: Place purchase orders for products, and update stock levels when received.
