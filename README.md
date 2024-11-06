@@ -9,8 +9,13 @@ A robust Inventory Management and Sales Tracking System built with AppSheet and 
 - **App Link**: [Inventory Management App](https://www.appsheet.com/start/f3c86a4a-12ef-465b-925b-5f0d43aac116)
 - **Live Dashboard**: [Looker Studio Dashboard](https://lookerstudio.google.com/s/irlW9vYwtG4)
 - For a demonstration, use credentials— **Admin (Pass: 98765)** & Salesperson **( Rajesh, Pass: 1234)**.
----
 
+
+## ⚠️ **Note:** 
+
+This project was originally crafted as a freelance solution for *" Maa Annapurna Trading Company "*. Unfortunately, due to an accident involving the client, the project could not be delivered as planned. Although it didn’t become part of my professional experience, I’m showcasing it here to highlight my expertise & commitment to building tailored inventory & sales management systems aligned with client needs.
+
+---
 ## 📋 Project Overview
 
 The Inventory Management and Sales Tracking System provides a full cycle solution for businesses, starting from purchase order creation to product allocation, sales, payment receipts, and inventory adjustments. This system streamlines processes, improves accuracy, and provides instant access to essential business data through a real-time dashboard.
