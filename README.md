@@ -2,7 +2,7 @@
 
 A robust Inventory Management and Sales Tracking System built with AppSheet and integrated with Looker Studio. This project is designed to streamline the entire workflow from purchasing and allocation to sales, payment tracking, inventory management, and real-time reporting.
 
-![Inventory Management App Screenshot](https://github.com/Ankkit0413/Inventory-Management-App-with-Real-Time-Reporting/blob/main/Inventory%20Managemrnt%20App-2.png)
+![Inventory Management App Screenshot](https://github.com/Ankkit0413/Inventory-Management-App-with-Real-Time-Reporting/blob/main/App%20%26%20Dashboard%20Views/Inventory%20Managemrnt%20App-2.png)
 
 ## 🌐 Project Links
 
@@ -88,19 +88,19 @@ The Looker Studio dashboard offers an at-a-glance view of:
 - **Filter Options**: Filter reports by date range, product type, or client.
 
 ---
-![Slide 1](https://github.com/Ankkit0413/Inventory-Management-App-with-Real-Time-Reporting/blob/main/INVENTORY%20MANAGEMENT-1.jpg)
+![Slide 1](https://github.com/Ankkit0413/Inventory-Management-App-with-Real-Time-Reporting/blob/main/App%20%26%20Dashboard%20Views/INVENTORY%20MANAGEMENT-1.jpg)
 
-![Slide 2](https://github.com/Ankkit0413/Inventory-Management-App-with-Real-Time-Reporting/blob/main/INVENTORY%20MANAGEMENT-2.jpg)
+![Slide 2](https://github.com/Ankkit0413/Inventory-Management-App-with-Real-Time-Reporting/blob/main/App%20%26%20Dashboard%20Views/INVENTORY%20MANAGEMENT-2.jpg)
 
-![Slide 3](https://github.com/Ankkit0413/Inventory-Management-App-with-Real-Time-Reporting/blob/main/INVENTORY%20MANAGEMENT-3.jpg)
+![Slide 3](https://github.com/Ankkit0413/Inventory-Management-App-with-Real-Time-Reporting/blob/main/App%20%26%20Dashboard%20Views/INVENTORY%20MANAGEMENT-3.jpg)
 
-![Slide 3](https://github.com/Ankkit0413/Inventory-Management-App-with-Real-Time-Reporting/blob/main/INVENTORY%20MANAGEMENT-4.jpg)
+![Slide 3](https://github.com/Ankkit0413/Inventory-Management-App-with-Real-Time-Reporting/blob/main/App%20%26%20Dashboard%20Views/INVENTORY%20MANAGEMENT-4.jpg)
 
-![Slide 3](https://github.com/Ankkit0413/Inventory-Management-App-with-Real-Time-Reporting/blob/main/INVENTORY%20MANAGEMENT-5.jpg)
+![Slide 3](https://github.com/Ankkit0413/Inventory-Management-App-with-Real-Time-Reporting/blob/main/App%20%26%20Dashboard%20Views/INVENTORY%20MANAGEMENT-5.jpg)
 
-![Slide 3](https://github.com/Ankkit0413/Inventory-Management-App-with-Real-Time-Reporting/blob/main/INVENTORY%20MANAGEMENT-6.jpg)
+![Slide 3](https://github.com/Ankkit0413/Inventory-Management-App-with-Real-Time-Reporting/blob/main/App%20%26%20Dashboard%20Views/INVENTORY%20MANAGEMENT-6.jpg)
 
-![Slide 3](https://github.com/Ankkit0413/Inventory-Management-App-with-Real-Time-Reporting/blob/main/INVENTORY%20MANAGEMENT-7.jpg)
+![Slide 3](https://github.com/Ankkit0413/Inventory-Management-App-with-Real-Time-Reporting/blob/main/App%20%26%20Dashboard%20Views/INVENTORY%20MANAGEMENT-7.jpg)
 
 ---
 ## 🧩 How It Works
